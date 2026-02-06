@@ -7,7 +7,7 @@ This is my first simple Arduino project combining an LED and a buzzer.
 - Building circuits on a breadboard.  
 - Writing, testing, and debugging Arduino programs.  
 - Integrating hardware and software for interactive projects.
-- Thats all what you want
+- **Thats all what you want**
 - 1- This project works with this Arduino model UNO, but it can also be adapted for other Arduino boards
 - 2- Buzzer
 - 3- LED
